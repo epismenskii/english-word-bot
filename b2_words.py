@@ -1,4 +1,4 @@
-WORDS_B2 = [
+words = [
     {"word": "resilient", "transcription": "/rɪˈzɪliənt/", "translation": "стойкий, устойчивый", "part_of_speech": "adjective", "example": "Children are very resilient.", "example_ru": "Дети очень стойкие."},
     {"word": "ambiguous", "transcription": "/æmˈbɪɡjuəs/", "translation": "неоднозначный, двусмысленный", "part_of_speech": "adjective", "example": "The instructions were ambiguous.", "example_ru": "Инструкции были неоднозначными."},
     {"word": "consequence", "transcription": "/ˈkɒnsɪkwəns/", "translation": "последствие, результат", "part_of_speech": "noun", "example": "You must face the consequences of your actions.", "example_ru": "Ты должен столкнуться с последствиями своих действий."},
